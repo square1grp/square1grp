@@ -4,8 +4,6 @@
 I'm a Senior Full-Stack Developer with proven work experience in web development and passionate & enthusiastic about what I do.
 Over the last 10 years, I've worked as a full-stack developer for several companies from large multinationals to early startups and helped many clients to get success.
 
-<br/>
-
 #### 1. My Services 👨‍💻
 - Web App Development 🖥
 - Mobile App Development 📱
@@ -25,8 +23,6 @@ Over the last 10 years, I've worked as a full-stack developer for several compan
   - Django, Flask, Django REST, Flask RESTful, Scrapy, Selenium
 - PHP
   - Laravel, Yii, WordPress
-
-<br/>
 
 [Read More...](https://square1grp.github.io/)
 

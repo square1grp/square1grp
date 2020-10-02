@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+
+I'm a Senior Full-Stack Developer with proven work experience in web development and passionate & enthusiastic about what I do.
+Over the last 10 years, I've worked as a full-stack developer for several companies from large multinationals to early startups and helped many clients to get success.
+
+[Read More...](https://square1grp.github.io/)
+
 <!--
 **square1grp/square1grp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

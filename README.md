@@ -24,7 +24,7 @@ Over the last 10 years, I've worked as a full-stack developer for several compan
 - PHP
   - Laravel, Yii, WordPress
 
-[Read More...](https://square1grp.github.io/)
+[Read More...](https://square1grp.vercel.app/)
 
 <!--
 **square1grp/square1grp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

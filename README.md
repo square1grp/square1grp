@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-I'm a Senior Full-Stack Developer with proven work experience in web development and passionate & enthusiastic about what I do.
+I'm a Senior Full-Stack Developer with proven work experience in web & mobile app development and passionate & enthusiastic about what I do.
 Over the last 10 years, I've worked as a full-stack developer for several companies from large multinationals to early startups and helped many clients to get success.
 
 #### 1. My Services 👨‍💻
